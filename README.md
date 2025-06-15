@@ -15,6 +15,6 @@ Tips:
 
   - use single quotes ('string to be echoed') whenever possible;
   - xecho command without parameters shows the help;
-  - xecho "`command`\n" to echo command output.
+  - xecho "\`command\`\n" to echo command output.
 
  * This README.md file was made using 'xecho' command.
